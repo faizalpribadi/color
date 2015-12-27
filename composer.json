@@ -1,0 +1,18 @@
+{
+    "name": "faizalpribadi/color",
+    "description": "Simple coloring string output",
+    "type": "color coloring color-string",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "faizalpribadi",
+            "email": "faizal.pribadi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": {
+            "Color\\": "src/"
+        }
+    }
+}
